@@ -283,9 +283,9 @@ function Projects() {
         },
         {
             "id" : 3,
-            "title": "Jewellery",
-            "image" : "jewellery.jpg",
-            "demo" : "#"
+            "title": "Movie App",
+            "image" : "movie-app.jpg",
+            "demo" : "https://movie-app24.web.app/"
         },
         {
             "id": 4,
@@ -301,71 +301,77 @@ function Projects() {
         },
         {
             "id" : 6,
+            "title": "Jewellery",
+            "image" : "jewellery.jpg",
+            "demo" : "#"
+        },
+        {
+            "id" : 7,
             "title": "New Portfolio",
             "image" : "new_portfolio.png",
             "demo" : "https://kyawmintun-96.web.app/"
         },
         {
-            "id" : 7,
+            "id" : 8,
             "title": "Travel & Tour",
             "image" : "travel_and_tour1.png",
             "demo" : "#"
         },
         {
-            "id" : 8,
+            "id" : 9,
             "title": "Internal Document Management",
             "image" : "idms.png",
             "demo" : "#"
         },
         {
-            "id" : 9,
+            "id" : 10,
             "title": "Employee Management System",
             "image": "ems.png",
             "demo" : "#"
         },
         {
-            "id" : 10,
+            "id" : 11,
             "title": "Simple Inventory System",
             "image": "simple_inventory.png",
             "demo" : "#"
         },
         {
-            "id" : 11,
+            "id" : 12,
             "title": "Voyager Website",
             "image": "voyager.jpg",
             "demo" : "#"
         },
         {
-            "id" : 12,
+            "id" : 13,
             "title": "Travel Website",
             "image": "travel.jpg",
             "demo" : "#"
         },
         {
-            "id" : 13,
+            "id" : 14,
             "title": "Bus Ticket System",
             "image": "bus_ticket_system.png"
         },
         {
-            "id" : 14,
+            "id" : 15,
             "title": "Email Verification",
             "image": "email_verification.png",
             "demo" : "#"
         },
         {
-            "id" : 15,
+            "id" : 16,
             "title": "Simple Blog System",
             "image": "Simple Blog System.png",
             "demo" : "#"
         },
         {
-            "id" : 16,
+            "id" : 17,
             "title": "Previous Portfolio",
             "image" : "old_portfolio.png",
             "demo" : "#"
         },        
         {
-            "id" : 17,
+            "id" : 18,
             "title": "Simple Student Registration",
             "image" : "SR.png",
             "demo" : "#"
